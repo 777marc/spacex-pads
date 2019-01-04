@@ -23,7 +23,7 @@ namespace spacex_pads.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllPads()
         {
-            var launchPads = _repo.GetAllPads();
+            var launchPads = await _repo.GetAllPads();
             return Ok(launchPads);
         }
         

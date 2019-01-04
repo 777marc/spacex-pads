@@ -6,7 +6,7 @@ namespace spacex_pads.Services
 {
     public interface ILaunchPads
     {
-         List<LaunchPad> GetAllPads();
+         Task<List<LaunchPad>> GetAllPads();
          LaunchPad GetPad(int padId);
     }
 }
