@@ -1,0 +1,14 @@
+C:\tmp\core\spacex\spacex-pads\bin\Debug\netcoreapp2.1\spacex-pads.deps.json
+C:\tmp\core\spacex\spacex-pads\bin\Debug\netcoreapp2.1\spacex-pads.runtimeconfig.json
+C:\tmp\core\spacex\spacex-pads\bin\Debug\netcoreapp2.1\spacex-pads.runtimeconfig.dev.json
+C:\tmp\core\spacex\spacex-pads\bin\Debug\netcoreapp2.1\spacex-pads.dll
+C:\tmp\core\spacex\spacex-pads\bin\Debug\netcoreapp2.1\spacex-pads.pdb
+C:\tmp\core\spacex\spacex-pads\obj\Debug\netcoreapp2.1\spacex-pads.csprojAssemblyReference.cache
+C:\tmp\core\spacex\spacex-pads\obj\Debug\netcoreapp2.1\spacex-pads.csproj.CoreCompileInputs.cache
+C:\tmp\core\spacex\spacex-pads\obj\Debug\netcoreapp2.1\spacex-pads.RazorAssemblyInfo.cache
+C:\tmp\core\spacex\spacex-pads\obj\Debug\netcoreapp2.1\spacex-pads.RazorAssemblyInfo.cs
+C:\tmp\core\spacex\spacex-pads\obj\Debug\netcoreapp2.1\spacex-pads.AssemblyInfoInputs.cache
+C:\tmp\core\spacex\spacex-pads\obj\Debug\netcoreapp2.1\spacex-pads.AssemblyInfo.cs
+C:\tmp\core\spacex\spacex-pads\obj\Debug\netcoreapp2.1\spacex-pads.RazorTargetAssemblyInfo.cache
+C:\tmp\core\spacex\spacex-pads\obj\Debug\netcoreapp2.1\spacex-pads.dll
+C:\tmp\core\spacex\spacex-pads\obj\Debug\netcoreapp2.1\spacex-pads.pdb
