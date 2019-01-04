@@ -12,6 +12,7 @@ namespace spacex_pads.Services
         public async Task<List<LaunchPad>> GetAllPads()
         {
             var padList = new List<LaunchPad>();
+            // this needs to come from config object
             var path = "https://api.spacexdata.com/v2/launchpads";
 
             HttpResponseMessage response = await _client.GetAsync(path);
